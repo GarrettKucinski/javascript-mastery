@@ -1,0 +1,10 @@
+{
+  "name": "javascript_mastery",
+  "version": "1.0.0",
+  "description": "A course dedicated to teaching the basics of the JavaScript language",
+  "main": "index.js",
+  "repository": "https://github.com/GarrettKucinski/javascript-mastery",
+  "author": "Garrett Kucinski",
+  "license": "None",
+  "private": false
+}
