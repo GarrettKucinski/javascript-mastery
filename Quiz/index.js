@@ -4,6 +4,7 @@
     const mainContainer = document.getElementById('quiz-container');
     const questionContainer = document.createElement('article');
 
+    questionContainer.className = 'question-container';
     questionContainer.innerHTML = `
       <div>${question}</div>
       <ul>
